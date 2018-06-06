@@ -11,7 +11,7 @@ public class ssh {
 
 
     public static void main(String[] args) {
-        String host="ssh.journaldev.com";
+        String host="ssh.example.com";
         String user="sshuser";
         String password="sshpwd";
         String command1="ls -ltr";
